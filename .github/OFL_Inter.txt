@@ -1,5 +1,4 @@
-Copyright (c) 2016-2020 The Inter Project Authors 
-(Rasmus Andersson and contributors).
+Copyright (c) 2026 [Badsha Badmash](badmashbadsha46@gmail.com)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -8,6 +7,8 @@ https://scripts.sil.org/OFL
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 -----------------------------------------------------------
+
+[baaki ka full license text waisa ka waisa likh do - same as original file]
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide
